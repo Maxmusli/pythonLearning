@@ -1,3 +1,2 @@
-a = 0
-
-input('enter something: ')
+a = ' '
+print(a.isspace())
